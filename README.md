@@ -53,7 +53,7 @@ section:after {
 
 
 footer {
-  background-color:red;
+  background-color:black;
   padding: 10px;
   text-align: center;
   color: white;
@@ -66,7 +66,7 @@ footer {
     height: auto;
   }
  h2{
-     color:green;
+     color:white;
  }
 tr { 
     position:abosulte;
@@ -80,7 +80,7 @@ tr {
 
 
 <header>
-  <h2>Birthday Party</h2>
+  <h2>Tribute to Cole</h2>
 </header>
 
 <section>
@@ -95,9 +95,9 @@ tr {
   <article>
  
  
-  <center> <h1>When:September 24,2020</h1></center>
-  <center>  <h3>Where: Omaha Zoo</h3></center>
-      <center>   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Birthday_Cake22.png"width="132" height="141" >
+  <center> <h1></h1></center>
+  <center>  <h3></h3></center>
+      <center>   <img src="">
       </center>
     
        <table style="table-layout:fixed;">
@@ -110,7 +110,7 @@ tr {
 </section>
 
 <footer>
-  <p>Contact the Event Center for more information at<center><strong>Number:</strong> (913)270-1142</center><center><strong>Email:</strong> omahazoo@gmail.com</center></p>
+  <p><center><strong>Number:</strong> </center><center><strong></strong> </center></p>
     <h2 id="rvp"></h2>
       <h2 id="adress"></h2>
       <h2 id="contact"></h2>
