@@ -53,7 +53,7 @@ section:after {
 
 
 footer {
-  background-color:rgb(115, 108, 115);
+  background-color:red;
   padding: 10px;
   text-align: center;
   color: white;
@@ -66,7 +66,7 @@ footer {
     height: auto;
   }
  h2{
-     color:rgb(199, 127, 186);
+     color:green;
  }
 tr { 
     position:abosulte;
