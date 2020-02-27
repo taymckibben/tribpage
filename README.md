@@ -86,9 +86,9 @@ tr {
 <section>
   <nav>
     
-      <a href="#rvp">RSVP</a><br>
-      <a href="#contact">Adress</a><br>
-      <a href="#adress">Contact info</a>
+      <a href="#rvp">More info</a><br>
+      <a href="#contact">Museum</a><br>
+      <a href="#adress">Donations</a>
 
   </nav>
   
@@ -103,7 +103,7 @@ tr {
        <table style="table-layout:fixed;">
        
   <tr>
-   <td><div style="word-wrap:break-word; width: 212px">Come Celebrate the Birthday!</div></td>
+   <td><div style="word-wrap:break-word; width: 212px">Lab</div></td>
    </tr>
   </table>
   </article>
